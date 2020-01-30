@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4c32bce90d2165a4689c8a30ebb39fe3, type: 3}
   m_Name: DropChip
   m_EditorClassIdentifier: 
-  type: 4
-  spriteName: Drop
+  type: 5
   sprites:
   - {fileID: 21300000, guid: f5ba3df19c1472044beef37030496207, type: 3}
   - {fileID: 21300000, guid: 2149571f2a3c5a146a0f8fef7287eece, type: 3}

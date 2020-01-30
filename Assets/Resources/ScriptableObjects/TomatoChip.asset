@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4c32bce90d2165a4689c8a30ebb39fe3, type: 3}
   m_Name: TomatoChip
   m_EditorClassIdentifier: 
-  type: 1
-  spriteName: Tomato
+  type: 2
   sprites:
   - {fileID: 21300000, guid: c415b801ab78fec448bbaa8b9199dd5e, type: 3}
   - {fileID: 21300000, guid: 40223a2140242cb4987aab4e51e9042e, type: 3}

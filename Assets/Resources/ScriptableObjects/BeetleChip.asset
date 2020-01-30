@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4c32bce90d2165a4689c8a30ebb39fe3, type: 3}
   m_Name: BeetleChip
   m_EditorClassIdentifier: 
-  type: 2
-  spriteName: Beetle
+  type: 3
   sprites:
   - {fileID: 21300000, guid: 9b69915e8e1eab64b92b40bcbbda76f0, type: 3}
   - {fileID: 21300000, guid: 2ebb1ac17de314749a386de7625e949d, type: 3}
