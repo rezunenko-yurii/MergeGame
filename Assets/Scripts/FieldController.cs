@@ -7,7 +7,7 @@ public class FieldController : MonoBehaviour
     private const float Spacing = 1.2f;
     private const int Rows = 5;
     private const int Cols = 5;
-    private const int StartChipsCount = 5;
+    private const int StartChipsCount = 10;
     private const int ScoreIncrement = 100;
     
     [SerializeField] private TextMeshProUGUI scoreText;
